@@ -1,4 +1,12 @@
-### Hi there 👋
+### Assalam u Alaikum and Hi there, My name Kashif H Khan 👋
+
+### Connect with me:
+
+[<img align="left" alt="kashifhk123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kashifhk123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kashifhk123 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kashifhk123 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="kashifhk123 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <!--
 **KashifHK123/KashifHK123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
